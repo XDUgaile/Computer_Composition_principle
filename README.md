@@ -1,4 +1,4 @@
-# Computer Composition principle
+# Computer Composition Principle
 xdu 网信院 计算机组成原理大作业 2022年 姜涛
 
 MIPS汇编实验报告
